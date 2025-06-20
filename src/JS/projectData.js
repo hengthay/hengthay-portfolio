@@ -1,4 +1,4 @@
-import project1 from '../Images/project1.png';
+import project1 from '../images/project1.png';
 
 export const projectData = [
   {
