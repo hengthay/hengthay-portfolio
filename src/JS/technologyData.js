@@ -1,9 +1,9 @@
-import javaImg from '../Images/java.svg';
-import jsImg from '../Images/js.svg';
-import pythonImg from '../Images/python.svg';
-import reactjsImg from '../Images/reactjs.svg';
-import laravelImg from '../Images/laravel.png';
-import phpImg from '../Images/php.png'
+import javaImg from '../images/java.svg';
+import jsImg from '../images/js.svg';
+import pythonImg from '../images/python.svg';
+import reactjsImg from '../images/reactjs.svg';
+import laravelImg from '../images/laravel.png';
+import phpImg from '../images/php.png'
 
 export const technologyData = [
   { 
