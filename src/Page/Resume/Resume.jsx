@@ -33,7 +33,7 @@ const Resume = () => {
         Resume
       </motion.h1>
 
-      <div className='w-full h-auto flex flex-col lg:flex-row md:items-start md:justify-between bg-gray-900 rounded-md md:pt-10 shadow-xs shadow-gray-300 px-2 md:py-20 py-10'>
+      <div className='w-full h-auto flex flex-col lg:flex-row md:items-start items-center md:justify-between bg-gray-900 rounded-md md:pt-10 shadow-xs shadow-gray-300 px-2 md:py-20 py-10'>
         <motion.div
           variants={listContainer}
           initial="hidden"
